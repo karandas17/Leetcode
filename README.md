@@ -27,16 +27,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karandas17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karandas17/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/karandas17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0881-boats-to-save-people](https://github.com/karandas17/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karandas17/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karandas17/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karandas17/Leetcode/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/karandas17/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karandas17/Leetcode/tree/master/0015-3sum) |
+| [0881-boats-to-save-people](https://github.com/karandas17/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/karandas17/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/karandas17/Leetcode/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/karandas17/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
