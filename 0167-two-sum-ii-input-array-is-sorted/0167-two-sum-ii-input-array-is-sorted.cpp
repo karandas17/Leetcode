@@ -5,7 +5,7 @@ public:
         int left =0;
         int right = n -1;
 
-        for( int i =0; i < n ; i++){
+        while(left < right) {
             if( numbers[left] + numbers[right] == target){
                 return {left+1, right+1};
             }
