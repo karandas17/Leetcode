@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/karandas17/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/karandas17/Leetcode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/karandas17/Leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/karandas17/Leetcode/tree/master/0062-unique-paths) |
 | [0300-longest-increasing-subsequence](https://github.com/karandas17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/karandas17/Leetcode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/karandas17/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/karandas17/Leetcode/tree/master/0881-boats-to-save-people) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/karandas17/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
