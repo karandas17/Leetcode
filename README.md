@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karandas17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/karandas17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karandas17/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0283-move-zeroes](https://github.com/karandas17/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/karandas17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/karandas17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/karandas17/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
